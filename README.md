@@ -1,4 +1,4 @@
-# Learning the Human Touch Interaction with Convolutional Neural Networks
+# Learning Human Touch Interaction with Convolutional Neural Networks
 A repository to save the works done during my research internship at [Gentiane Venture's Laboratory](http://web.tuat.ac.jp/~gvlab/), Tokyo Univ. of Agriculture and Technology, Japan.
 
 The research is about using Convolutional Neural Network (CNN) to classify several types of touch interaction (poke, scratch, gentle stroke, hard press, and neutral) from humans by learning the data pattern from a force sensor. This sensor converts human touch into 3-dimensional force data.
